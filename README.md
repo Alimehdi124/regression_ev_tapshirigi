@@ -1,0 +1,1 @@
+VS Code-da qovluğu açın. `pip install -r requirements.txt` quraşdırın. `python main.py` işlədin və ya `regression_homework.ipynb` notebook faylını açıb hüceyrələri icra edin. `data/` faylları orijinal deyil, nümunədir.
